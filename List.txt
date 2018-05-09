@@ -1,14 +1,14 @@
-Username 		Login IP                User     Password
+Username 		Login IP              User     Password
 3Com 		http://192.168.1.1 	admin 	admin
 Belkin 		http://192.168.2.1 	admin 	admin
 BenQ 	
-D-Link 	        http://192.168.0.1 	admin 	admin
-Digicom 	http://192.168.1.254 	admin 	michelangelo
-Digicom 	http://192.168.1.254 	user 	password
-Linksys 	http://192.168.1.1 	admin 	admin
-Netgear 	http://192.168.0.1 	admin 	password
-Sitecom 	http://192.168.0.1 	sitecom 	admin
-Thomson 	http://192.168.1.254 	user 	user
+D-Link 	           http://192.168.0.1 	admin 	admin
+Digicom 	           http://192.168.1.254 	admin 	michelangelo
+Digicom 	           http://192.168.1.254 	user 	password
+Linksys 	           http://192.168.1.1 	admin 	admin
+Netgear 	           http://192.168.0.1 	admin 	password
+Sitecom 	           http://192.168.0.1 	sitecom 	admin
+Thomson 	           http://192.168.1.254 	user 	user
 US Robotics 	http://192.168.1.1 	admin 	admin
 
 
